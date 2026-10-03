@@ -1,1 +1,1 @@
-TEST-CONFIG
+vless://UUID-ANDA@104.17.148.22:80?encryption=none&security=none&type=ws&host=ad.prtbaru68.workers.dev&path=%2Fvl%3D178.128.80.43%3A443#ADtun
